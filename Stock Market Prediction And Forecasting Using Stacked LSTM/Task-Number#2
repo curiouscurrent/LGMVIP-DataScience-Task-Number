@@ -1,1 +1,7 @@
 ## Stock Market Prediction And Forecasting Using Stacked LSTM
+
+1. We will collect the stock data 
+2. Next we will preprocess the data - that is split into train and test
+3. Create an stacked LSTM model
+4. Predict the test data and plot the output
+5. Predict the future 30 days and plot the output
